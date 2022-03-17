@@ -1,0 +1,21 @@
+{
+  "name": "babel-plugin-manage-log",
+  "version": "1.0.0",
+  "repository": "https://github.com/wpy2015/babel-plugin-manage-log",
+  "main": "lib/index.js",
+  "author": "wupanyan",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel ./src --out-dir ./lib"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ]
+  },
+  "dependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11"
+  }
+}
