@@ -1,7 +1,7 @@
 {
-  "name": "babel-plugin-manage-log",
+  "name": "babel-plugin-manage-console",
   "version": "1.0.0",
-  "repository": "https://github.com/wpy2015/babel-plugin-manage-log",
+  "repository": "https://github.com/wpy2015/babel-plugin-manage-console",
   "main": "lib/index.js",
   "author": "wupanyan",
   "license": "MIT",

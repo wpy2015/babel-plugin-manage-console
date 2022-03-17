@@ -1,4 +1,4 @@
-# babel-plugin-manage-log
+# babel-plugin-manage-console
 
 >一个通过注释的形式管理console.log的babel插件，用于方便对源码以及业务代码的调试理解。
 
@@ -9,7 +9,7 @@
 ```js
 plugins: [
     [
-        'babel-plugin-manage-log',
+        'babel-plugin-manage-console',
         {
             hiddenTags: [],  //要隐藏的tag调试
             groupCollapsed: false, //调试信息是否折叠
