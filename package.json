@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-manage-console",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "https://github.com/wpy2015/babel-plugin-manage-console",
   "main": "lib/index.js",
   "author": "wupanyan",
@@ -13,7 +13,7 @@
       "@babel/preset-env"
     ]
   },
-  "dependencies": {
+  "devDependencies": {
     "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.5",
     "@babel/preset-env": "^7.16.11"
